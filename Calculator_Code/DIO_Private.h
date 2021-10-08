@@ -1,0 +1,7 @@
+#ifndef DIO_PRIVATE_H_
+#define DIO_PRIVATE_H_
+
+#define DIO_MAX_NUMBER_OF_PIN	(7)
+#define DIO_MAX_NUMBER_PORT_VAL (0XFF)
+
+#endif /*DIO_PRIVATE_H_*/
