@@ -7,7 +7,7 @@
 
 #include "Std_DataType.h"
 #include "Stack.h"
-
+// 8-bit stack
 void Stack8_Initiate(Stack8_t *Stack)
 {
 	Stack->Top = 0;

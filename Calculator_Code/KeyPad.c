@@ -14,6 +14,7 @@
 #include "KeyPad.h"
 #include "util/delay.h"
 
+// This function used to setup
 void KeyPad_Setup(void)
 {
 	#if KEYPAD_TYPE == KeyPad_4x4
